@@ -1,4 +1,4 @@
-#### Frontend Mentor - 3-column preview card component solution
+<h1> Frontend Mentor - 3-column preview card component solution</h1>
 
 This is a solution to the 3-column preview card component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.<br>
 ## Preview<br>
