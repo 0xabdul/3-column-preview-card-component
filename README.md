@@ -4,13 +4,13 @@ This is a solution to the 3-column preview card component challenge on Frontend 
 ## Preview<br>
 
 
-### Links
+## Links
 <ul>
 <li>Live Site URL: <a href="https://0xabdul.github.io/3-column-preview-card-component/">Click Here</a></li><br>
 <li>Solution URL: <a href="https://www.frontendmentor.io/solutions/3column-preview-card-component-EzKy00KahE">Click Here</a></li>
 </ul><br>
 
-### Built with
+## Built with
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   <br>
 ## Tools Used
@@ -21,7 +21,7 @@ This is a solution to the 3-column preview card component challenge on Frontend 
 
 
 
-### What I learned
+## What I learned
 <ul>
   <li>learn about more flex</li>
   <li>learn about land mark</li>
