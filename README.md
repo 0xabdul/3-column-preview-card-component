@@ -6,7 +6,7 @@ This is a solution to the 3-column preview card component challenge on Frontend 
 
 ## Links
 <ul>
-<li>Live Site URL: <a href="">Click Here</a></li><br>
+<li>Live Site URL: <a href="https://0xabdul.github.io/3-column-preview-card-component/">Click Here</a></li><br>
 <li>Solution URL: <a href="">Click Here</a></li>
 </ul><br>
 
